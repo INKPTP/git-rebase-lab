@@ -19,6 +19,9 @@ def ping_host(host):
     except Exception as e:
         print(f"เกิดข้อผิดพลาด: {e}")
         return False
+    
+def pong_host(host):
+    pass
 
 # ตัวอย่างการใช้งาน
 ping_host("8.8.8.8")
