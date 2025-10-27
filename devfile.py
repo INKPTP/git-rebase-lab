@@ -23,5 +23,8 @@ def ping_host(host):
 def pong_host(host):
     pass
 
+def pong_host1(host):
+    pass
+
 # ตัวอย่างการใช้งาน
 ping_host("8.8.8.8")
